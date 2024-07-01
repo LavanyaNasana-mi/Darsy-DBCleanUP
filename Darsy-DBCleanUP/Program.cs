@@ -9,7 +9,7 @@ using System.Data.SqlClient;
 
 namespace Darsy_DBCleanUP
 {
-    public class Program
+    public class Programs
     {
         public static void Main(string[] args)
         {
